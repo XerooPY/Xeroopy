@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21566
-Fork on GitHub
-6840
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h3 align="center">Just code some stuff for fun not very active.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeroopy&label=Profile%20views&color=0e75b6&style=flat" alt="xeroopy" /> </p>
