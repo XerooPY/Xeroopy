@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **--------**
 
-- 📫 How to reach me **xeroo._._. on discord**
+- 📫 How to reach me **zxerooz on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
